@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "properties": {
+    "path": {
+      "type": "string",
+      "absolutePath": true
+    },
+    "filename": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}
